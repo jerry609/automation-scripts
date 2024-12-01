@@ -211,7 +211,7 @@ Folder3
    ```
 
    输出结果也被保存到了 `/Users/yourusername/Desktop/output.txt`。
-
+![img.png](img.png)
 ## 常见问题
 
 **Q**：为什么有些文件或文件夹没有显示？
