@@ -1,9 +1,9 @@
-# utils-bash-scripts
+# automation-scripts
 
 
 ## 概述
 
-欢迎来到 **utils-bash-scripts**！这个仓库收集了一系列有用的 Bash/Python脚本，旨在简化和自动化各种系统任务。无论您是开发人员、系统管理员还是爱好者，这些脚本都可以帮助您在系统上简化工作流程。
+欢迎来到 **automation-scripts**！这个仓库收集了一系列有用的 Bash/Python脚本，旨在简化和自动化各种系统任务。无论您是开发人员、系统管理员还是爱好者，这些脚本都可以帮助您在系统上简化工作流程。
 
 
 ## 包含的脚本
